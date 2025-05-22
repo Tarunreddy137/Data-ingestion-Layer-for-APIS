@@ -1,0 +1,9 @@
+## Prerequisites
+Python 3.8+
+pip install requests pandas tqdm
+ ## Libraries Used
+  requests — HTTP API calls
+  pandas — DataFrame creation and cleaning
+  tqdm — Progress bar for large data pulls
+  json — Parsing JSON responses and config files
+  logging — Metric logging and error capture
